@@ -1,3 +1,3 @@
-module github.com/koron/iferr
+module github.com/zxl8121/iferr
 
 go 1.16
